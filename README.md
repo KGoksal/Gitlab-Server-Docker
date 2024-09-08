@@ -4,7 +4,7 @@
 
 ```
 
-docker run -d --hostname gitlab.dev-ops.expert \
+docker run -d --hostname devopstomorrow.com \
 -p 443:443 -p 80:80 -p 2222:22 \
 --name gitlab \
 --restart unless-stopped \
