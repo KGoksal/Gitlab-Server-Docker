@@ -16,5 +16,5 @@ gitlab/gitlab-ce:latest
 
 To retrieve the initial root password, refer to the file located at 
 ```
-/etc/gitlab/initial_root_password
+docker exec -it gitlab cat /etc/gitlab/initial_root_password
 ```
