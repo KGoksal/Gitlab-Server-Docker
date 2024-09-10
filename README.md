@@ -2,7 +2,7 @@
 
 This guide will walk you through deploying a GitLab server using Docker. GitLab is a web-based DevOps lifecycle tool that provides a Git repository manager, CI/CD pipelines, and more.
 
-## Prerequisites
+## Prerequisites 
 
 Before starting, make sure you have the following installed on your system:
 
