@@ -20,7 +20,7 @@ Before starting, make sure you have the following installed on your system:
 - [Backup and Restore](#backup-and-restore)
 - [Contributing](#contributing)
 - [License](#license)
-
+ 
 ---
 
 ## Clone the GitLab Docker Image
