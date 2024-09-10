@@ -41,7 +41,7 @@ docker pull gitlab/gitlab-ce:latest
 
 You can run the GitLab container with the following command. This will start a GitLab instance using default configurations.
 
-```bash
+```bash 
 docker run --detach \
     --hostname gitlab.example.com \
     --publish 443:443 --publish 80:80 --publish 22:22 \
@@ -62,7 +62,7 @@ docker run --detach \
 - `--volume`: Persist configuration, logs, and data across restarts.
 - `gitlab/gitlab-ee:latest`: The official GitLab Docker image (Enterprise Edition).
 
-### Notes:
+### Notes: 
 - If you don't need the Enterprise Edition, replace `gitlab/gitlab-ee:latest` with `gitlab/gitlab-ce:latest` for the Community Edition.
 
 ## Run GitLab Using Docker Compose (Optional)
