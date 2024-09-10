@@ -99,7 +99,7 @@ services:
    docker-compose down
    ```
 
-This will start GitLab with the same default settings as the Docker run command.
+This will start GitLab with the same default settings as the Docker run command. 
 
 ## Configuration Options
 
