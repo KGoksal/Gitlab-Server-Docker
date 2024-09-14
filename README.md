@@ -9,7 +9,7 @@ Before starting, make sure you have the following installed on your system:
 - **Docker**: [Installation Guide](https://docs.docker.com/get-docker/)
 - **Docker Compose** (optional, but recommended for easier multi-service deployment): [Installation Guide](https://docs.docker.com/compose/install/)
 
-## Table of Contents
+## Table of Contents 
 
 - [Clone the GitLab Docker Image](#clone-the-gitlab-docker-image)
 - [Run GitLab Using Docker](#run-gitlab-using-docker)
