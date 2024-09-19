@@ -4,7 +4,7 @@ This guide will walk you through deploying a GitLab server using Docker. GitLab 
 
 ## Prerequisites 
 
-Before starting, make sure you have the following installed on your system:
+Before starting, make sure you have the following installed on your system: 
 
 - **Docker**: [Installation Guide](https://docs.docker.com/get-docker/)
 - **Docker Compose** (optional, but recommended for easier multi-service deployment): [Installation Guide](https://docs.docker.com/compose/install/)
