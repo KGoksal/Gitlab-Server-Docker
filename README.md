@@ -43,7 +43,7 @@ You can run the GitLab container with the following command. This will start a G
 
 ```bash 
 docker run --detach \
-    --hostname gitlab.devopstomorrow.com \
+    --hostname gitlab.example.com \
     --publish 443:443 --publish 80:80 --publish 22:22 \
     --name gitlab \
     --restart always \
