@@ -13,7 +13,7 @@ Before starting, make sure you have the following installed on your system:
 
 - [Clone the GitLab Docker Image](#clone-the-gitlab-docker-image)
 - [Run GitLab Using Docker](#run-gitlab-using-docker)
-- [Run GitLab Using Docker Compose (Optional)](#run-gitlab-using-docker-compose-optional)
+- [Run GitLab Using Docker Compose (Optional)](#run-gitlab-using-docker-compose-optional) 
 - [Configuration Options](#configuration-options)
 - [Accessing GitLab](#accessing-gitlab)
 - [Persisting Data](#persisting-data)
